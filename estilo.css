@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+body {
+	background-color: #ddd;
+	font-family: roboto;
+	font-size: 16px;
+
+}
+
+nav {
+	height: 80px;
+	display: flex;
+	flex-direction: row;
+	background-color: #dbdbdc;
+	justify-content: space-between;
+	align-items: center;
+	color: white;
+	padding: 0 40px;
+
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
